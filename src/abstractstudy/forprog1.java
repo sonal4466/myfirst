@@ -18,5 +18,5 @@ public class forprog1 extends prog1 {
 		System.out.println("display the output");
 		
 	}
-	//hello
+	//hello 123
 }
